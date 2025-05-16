@@ -1,0 +1,12 @@
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\bin\Debug\AnaSayfa.exe.config
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\bin\Debug\AnaSayfa.exe
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\bin\Debug\AnaSayfa.pdb
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.AnaSayfafrm.resources
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.Properties.Resources.resources
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.UyeEklefrm.resources
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.csproj.GenerateResource.cache
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.exe
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.pdb
+C:\Users\Hakan\source\repos\AnaSayfa\AnaSayfa\obj\Debug\AnaSayfa.UyeListelemefrm.resources

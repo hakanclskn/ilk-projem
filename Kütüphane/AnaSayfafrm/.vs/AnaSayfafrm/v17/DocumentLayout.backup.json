@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|c:\\users\\hakan\\onedrive\\masa\u00FCst\u00FC\\k\u00FCt\u00FCphane\\anasayfafrm\\anasayfafrm\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|solutionrelative:anasayfafrm\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\anasayfafrm\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|solutionrelative:anasayfafrm\\uyeeklefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\anasayfafrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67B8635E-AD7C-4AB4-B387-D1D619AF6460}|AnaSayfafrm\\AnaSayfafrm.csproj|solutionrelative:anasayfafrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UyeEklefrm.cs",
+              "DocumentMoniker": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\UyeEklefrm.cs",
+              "RelativeDocumentMoniker": "AnaSayfafrm\\UyeEklefrm.cs",
+              "ToolTip": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\UyeEklefrm.cs",
+              "RelativeToolTip": "AnaSayfafrm\\UyeEklefrm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:47:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UyeEklefrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\UyeEklefrm.cs",
+              "RelativeDocumentMoniker": "AnaSayfafrm\\UyeEklefrm.cs",
+              "ToolTip": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\UyeEklefrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AnaSayfafrm\\UyeEklefrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:38:41.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\Form1.cs",
+              "RelativeDocumentMoniker": "AnaSayfafrm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hakan\\OneDrive\\Masa\u00FCst\u00FC\\K\u00FCt\u00FCphane\\AnaSayfafrm\\AnaSayfafrm\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AnaSayfafrm\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:26:47.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
